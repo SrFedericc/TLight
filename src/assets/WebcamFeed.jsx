@@ -19,7 +19,7 @@ const WebcamFeed = ({ onDetection }) => {
       setInterval(() => {
         const detected = Math.random() > 0.5;
         onDetection(detected);
-      }, 2000);
+      }, 5000);
     };
 
     detectHelmet();

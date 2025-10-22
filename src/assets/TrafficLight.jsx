@@ -1,4 +1,5 @@
 import '../TrafficLight.css';
+import DetectionStatus from './DetectionStatus.jsx';
 
 const TrafficLight = ({ detected }) => {
   const getActiveLight = () => {
