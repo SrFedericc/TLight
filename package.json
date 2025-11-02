@@ -1,19 +1,4 @@
 {
-<<<<<<< HEAD
-  "dependencies": {
-    "gh-pages": "^6.3.0"
-  },
-  "homepage": "https://srfedericc.github.io/TLight/",
-  "scripts": {
-   "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
-  }
-}
-=======
   "name": "semaforo",
   "private": true,
   "version": "0.0.0",
@@ -46,4 +31,3 @@
     "vite": "^7.1.7"
   }
 }
->>>>>>> ccafeb17260543856d1df5ec4aa2066cbc257abe
