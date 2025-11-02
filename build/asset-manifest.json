@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TLight/static/css/main.bdd3250d.css",
+    "main.js": "/TLight/static/js/main.30e96dc7.js",
+    "static/js/453.4776cff9.chunk.js": "/TLight/static/js/453.4776cff9.chunk.js",
+    "index.html": "/TLight/index.html",
+    "main.bdd3250d.css.map": "/TLight/static/css/main.bdd3250d.css.map",
+    "main.30e96dc7.js.map": "/TLight/static/js/main.30e96dc7.js.map",
+    "453.4776cff9.chunk.js.map": "/TLight/static/js/453.4776cff9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bdd3250d.css",
+    "static/js/main.30e96dc7.js"
+  ]
+}

@@ -8,3 +8,4 @@ const DetectionStatus = ({ detected }) => {
 };
 
 export default DetectionStatus;
+
